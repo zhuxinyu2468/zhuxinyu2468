@@ -19,7 +19,7 @@ I'm a highly adaptable and passionate Master of Computer Science student with a 
 - 🔭 I’m currently working on my master thesis about POI recommandation.
 - 🌱 I’m currently learning about graph nerual network and graph representation learning.
 - 🤔 I'm interested in machine learning, big-data algorithm, website development and back-end programming .
-- 💬 I'm currently seeking for a machine learning or software engineering job.
+- 💬 I'm currently seeking for a data engineer or software engineer job.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: As someone who spends a lot of time sitting in front of a computer, I regularly doing Pilates to improve posture and promote a healthy work-life balance.
 
