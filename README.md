@@ -16,7 +16,7 @@
 I'm a highly adaptable and passionate Master of Computer Science student with a strong background in programming and machine learning. I'm committed to contributing to a positive work environment and excel as a team player.
 
 - 🎓 Master of Computer Science student.
-- 🔭 I’m currently working on my master thesis about POI recommandation.
+- 🔭 I’m currently working on my master thesis about POI recommendation.
 - 🌱 I’m currently learning about graph nerual network and graph representation learning.
 - 🤔 I'm interested in machine learning, big-data algorithm, website development and back-end programming .
 - 💬 I'm currently seeking for a data engineer or software engineer job.
