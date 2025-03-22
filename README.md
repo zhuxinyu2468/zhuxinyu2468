@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=004466&height=300&section=header&text=Hello%20everyone&#x1F60A;&fontSize=90)
 
 
-# Hi, I'm Xinyu Zhu 👋
+# Hi, I'm Patrick Zhu 👋
 
 
 <p align="center">
@@ -13,13 +13,14 @@
 <h2>👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
 
-I'm a highly adaptable and passionate Master of Computer Science student with a strong background in programming and machine learning. I'm committed to contributing to a positive work environment and excel as a team player.
+I'm a highly adaptable and passionate Software Engineer with a student with a strong background in Master of Computer Science programming and machine learning. I'm committed to contributing to a positive work environment and excel as a team player.
 
-- 🎓 Master of Computer Science student.
-- 🔭 I’m currently working on my master thesis about POI recommendation.
-- 🌱 I’m currently learning about graph nerual network and graph representation learning.
-- 🤔 I'm interested in machine learning, big-data algorithm, website development and back-end programming .
-- 💬 I'm currently seeking for a data engineer or software engineer job.
+- 💼 Software Engineer with 2 years of hands-on experience in designing, developing, and deploying robust software solutions.
+- 🎓 Master of Computer Science(First Class Honours) graduate with a thesis focused on POI recommendation systems.
+- 🔭 I’m currently working on C# backend systems, RESTful apis.
+- 🌱 I’m currently learning about graph nerual network, graph representation learning, distributed systems, and cloud-native technologies.
+- 🤔 I'm interested inMachine learning, big-data algorithms, backend development, and scalable system design.
+- 💬 I'm currently open to new opportunities as a Software Engineer, Data Engineer, or Machine Learning Engineer.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: As someone who spends a lot of time sitting in front of a computer, I regularly doing Pilates to improve posture and promote a healthy work-life balance.
 
